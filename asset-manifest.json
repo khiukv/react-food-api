@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/khiukv/react-food-api/static/css/main.b31ee325.chunk.css",
-    "main.js": "/khiukv/react-food-api/static/js/main.4d361196.chunk.js",
-    "main.js.map": "/khiukv/react-food-api/static/js/main.4d361196.chunk.js.map",
-    "runtime-main.js": "/khiukv/react-food-api/static/js/runtime-main.10ff7724.js",
-    "runtime-main.js.map": "/khiukv/react-food-api/static/js/runtime-main.10ff7724.js.map",
-    "static/js/2.b46af6f4.chunk.js": "/khiukv/react-food-api/static/js/2.b46af6f4.chunk.js",
-    "static/js/2.b46af6f4.chunk.js.map": "/khiukv/react-food-api/static/js/2.b46af6f4.chunk.js.map",
-    "index.html": "/khiukv/react-food-api/index.html",
-    "static/css/main.b31ee325.chunk.css.map": "/khiukv/react-food-api/static/css/main.b31ee325.chunk.css.map",
-    "static/js/2.b46af6f4.chunk.js.LICENSE.txt": "/khiukv/react-food-api/static/js/2.b46af6f4.chunk.js.LICENSE.txt"
+    "main.css": "/react-food-api/static/css/main.b31ee325.chunk.css",
+    "main.js": "/react-food-api/static/js/main.4d361196.chunk.js",
+    "main.js.map": "/react-food-api/static/js/main.4d361196.chunk.js.map",
+    "runtime-main.js": "/react-food-api/static/js/runtime-main.625dbbaa.js",
+    "runtime-main.js.map": "/react-food-api/static/js/runtime-main.625dbbaa.js.map",
+    "static/js/2.b46af6f4.chunk.js": "/react-food-api/static/js/2.b46af6f4.chunk.js",
+    "static/js/2.b46af6f4.chunk.js.map": "/react-food-api/static/js/2.b46af6f4.chunk.js.map",
+    "index.html": "/react-food-api/index.html",
+    "static/css/main.b31ee325.chunk.css.map": "/react-food-api/static/css/main.b31ee325.chunk.css.map",
+    "static/js/2.b46af6f4.chunk.js.LICENSE.txt": "/react-food-api/static/js/2.b46af6f4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.10ff7724.js",
+    "static/js/runtime-main.625dbbaa.js",
     "static/js/2.b46af6f4.chunk.js",
     "static/css/main.b31ee325.chunk.css",
     "static/js/main.4d361196.chunk.js"
